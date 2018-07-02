@@ -1,4 +1,4 @@
-# Ride-My-Way
+# Ride-My-Way API
 
 ## Project Overview
 
